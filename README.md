@@ -1,15 +1,16 @@
 # 👋 Hi, I’m Felipe Rossato
 
-💻 **Principal Engineer | Full Stack Developer | Cloud Enthusiast**  
-🌍 Building scalable systems • Designing robust APIs • Driving cloud-native architectures  
+💻 **Principal Engineer | Full Stack Developer | Cloud Learner**  
+🌍 Building scalable systems • Designing robust APIs • Exploring cloud-native architectures  
 
 ---
 
 ## 🚀 About Me
-I’m a **Full-Stack Engineer** with a strong focus on **Backend Development** and **Cloud Infrastructure**, while keeping solid experience in modern **Frontend technologies**.  
+I’m a **Full-Stack Engineer** with a strong focus on **Backend Development** and solid experience in modern **Frontend technologies**. I’m also growing my expertise in **Cloud Infrastructure**, applying it step by step to real-world projects.  
 
-- ⚡ Architecting and scaling distributed systems  
-- 🛠️ Leading technical direction & mentoring teams  
+- ⚡ Architecting and scaling distributed systems
+- 🛠️ Refactoring legacy codebases and debugging complex issues
+- 🔧 Developing full applications from backend to frontend
 - 📜 Authoring **RFCs** & **ADRs** to guide long-term engineering vision  
 - 🧑‍🤝‍🧑 Fostering collaboration, clean code, and engineering culture  
 - 🌱 Always learning, curious, and excited by new challenges  
